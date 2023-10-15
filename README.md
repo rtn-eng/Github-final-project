@@ -7,4 +7,3 @@ Output
    simple interest = p*t*r
 
 2021 XYZ, Inc.
-
